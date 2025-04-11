@@ -1,0 +1,52 @@
+*{
+padding: 0%;
+margin: 0%;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+}
+img {
+height: 50%;
+width: 50%;
+display: block;
+transition: 0.3s, ease-in-out; 
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.container{
+    max-width: 100%;
+    margin: auto;
+    flex-basis: 200px;
+}
+/* style sheet ends here  */
+
+.hero{
+height: 115vh;
+
+}
+.photo{
+   background: black;
+   justify-content: center;
+   
+   
+}
+.hero-content{
+    height: 100%;
+    justify-content: flex-end;
+}
+.image{
+    width: 50%;
+    height: 50%;
+    border: 2px solid green;
+}
+
+.h1{
+font-size: 4rem;
+font-weight: 500;
+}
