@@ -52,5 +52,8 @@ font-weight: 500;
 }
 #okk{
     background: wheat;
-    color: blueviolet;
-}
+    color: blueviolet;}
+    #okk{
+        align-items: center;
+        display: none ;
+    }
